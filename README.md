@@ -1,5 +1,5 @@
 # Appendix explanation
-This appendix reports the individual average results for the algorithms proposed on paper ***Mathematical Models and Heuristic Algorithms for Pallet Building Problems with Practical Constraints*** to compare the performance among all strategies in a consistent way. The average results for the algorithms are summarized in the following tables.
+This appendix reports the individual average results for the algorithms proposed by *Calzavara et al. (2021)*. The tests compare the performance of several algorithmic strategies, and are summarized in the attached tables.
 
 # Deterministic algorithms
 - EPMH
@@ -10,3 +10,6 @@ This appendix reports the individual average results for the algorithms proposed
 - GREP
 - MGREP
 - GREPFULL
+
+## Reference
+ - G. Calzavara, M. Iori, M. Locatelli, M.C.O. Moreira, T. Silveira, “Mathematical Models and Heuristic Algorithms for Pallet Building Problems with Practical Constraints”, submitted technical report (2021).
